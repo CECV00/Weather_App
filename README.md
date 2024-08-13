@@ -32,12 +32,12 @@ Para correr este proyecto localmente, sigue estos pasos:
     - Regístrate en [OpenWeatherMap](https://openweathermap.org/) y obtén tu API key.
     - Crea un archivo `.env` o modifica el archivo de configuración para incluir tu API key:
       ```env
-      API_KEY=tu_api_key_aqui
+      API_KEY=014f20f36fb898b5833430f575e5191d
       ```
 
 5. Ejecuta la aplicación:
     ```bash
-    [Aquí indica cómo ejecutar la aplicación, por ejemplo, `npm start` o `python app.py`]
+ Instale el plugin Live Server y luego ejecutar el archivo index.html con 'Open with Live Server'
     ```
 
 ## Uso
